@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "last_name": "Lagouader",
+      "first_name": "zakaria",
+      "phone": "+212 61 12 45 78",
+      "email": "email@test.com",
+      "relation": "firend",
+      "favourite": false
+    },
+    {
+      "id": 2,
+      "first_name": "jhone",
+      "last_name": "Doe",
+      "phone": "+1215445454",
+      "email": "test@test.com",
+      "relation": "friend",
+      "favourite": false
+    },
+    {
+      "first_name": "hicham",
+      "last_name": "zydoubi",
+      "phone": "06124578",
+      "email": "admin@test.com",
+      "relation": "school",
+      "favourite": false,
+      "id": 3
+    },
+    {
+      "first_name": "toto",
+      "last_name": "hooh",
+      "phone": "+1215445454",
+      "email": "test@test.com",
+      "relation": "business",
+      "favourite": false,
+      "id": 7
+    }
+  ]
+}
